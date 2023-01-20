@@ -1,0 +1,36 @@
+.logo{
+    font-size: x-large;
+    font-size: 40px;
+    color: blue;
+    text-decoration: none;
+}
+
+
+body{
+    display: flext;
+    flex-direction: column;
+}
+
+
+header{
+    border-bottom: 1px solid rgb(7, 83, 26);
+}
+
+
+main{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+article{
+    flex: 2;
+    overflow-y: auto;
+    margin: 0 auto;
+}
+
+
+aside{
+    flex: 1;
+    overflow-y: auto;
+}
