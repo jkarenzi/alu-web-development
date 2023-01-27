@@ -1,16 +1,19 @@
-                                       HTML_ADVANCED
+                                         HTML_ADVANCED
 
-- In this and coming projects, you will implement from scratch a webpage from a designer file.
+* In this and coming projects, you will implement from scratch a webpage from a designer file.
 
-- For this first project, you will focus on the HTML structure only - no CSS, no style - just pure HTML semantic.
+* For this first project, you will focus on the HTML structure only - no CSS, no style - just pure HTML semantic.
 
+                                              Requirements
 
-- All your files should end with a new line
-- A README.md file, at the root of the folder of the project is mandatory
-- You are not allowed to install, import or use external libraries. This website must be build with only HTML/CSS/JavaScript.No NodeJS, React, VueJS, Bootstrap, etc.
-- Your code should be W3C compliant and validate with [W3C-Validator](https://intranet.aluswe.com/rltoken/Dzwkd63Mmcw7FNXDmnGTsg)
+> **General**
 
-                                        THE WEBSITE
+* All your files should end with a new line
+* A README.md file, at the root of the folder of the project is mandatory
+* You are not allowed to install, import or use external libraries. This website must be build with only HTML/CSS/JavaScript.No NodeJS, React, VueJS, Bootstrap, etc.
+* Your code should be W3C compliant and validate with [W3C-Validator](https://intranet.aluswe.com/rltoken/Dzwkd63Mmcw7FNXDmnGTsg)
+
+                                          Idea of the website
 
 ![Image one](https://user-images.githubusercontent.com/109439888/214020630-738bc53c-a165-4c25-9faf-bb230d5ae43a.png)
 ![Image two](https://user-images.githubusercontent.com/109439888/214020748-c42b259e-df6d-4537-920d-6ea90b9b4887.png)
